@@ -1,4 +1,7 @@
 #+STARTUP: showall
+#+BEGIN_HTML
+<meta http-equiv="refresh" content="0; url=http://example.com/"> 
 
+#+END_HTML
 * tt
 ** oeu
