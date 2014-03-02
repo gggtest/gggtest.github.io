@@ -1,0 +1,11 @@
+#+STARTUP: showall
+#+TITLE: tttt
+* About
+=oooo=
+* eee
+oooooooooe[fn:1][fn:2][fn:3] oooo
+
+[fn:1] change
+[fn:2] blog
+[fn:3] wikipedia https://en.wikipedia.org/wiki/Rope_%28data_structure%29
+
